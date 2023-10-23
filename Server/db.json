@@ -1,0 +1,412 @@
+{
+  "zaid": [
+    {
+      "id": 1,
+      "email": "first@gmail.com",
+      "name": "first user",
+      "password": "11223344"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "name": "Fuller Booker",
+      "email": "jiseviju@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 4
+    },
+    {
+      "name": "Nola Robles",
+      "email": "xonavilo@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 5
+    },
+    {
+      "name": "Lyle Spencer",
+      "email": "teviv@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 6
+    },
+    {
+      "name": "Chelsea Dunlap",
+      "email": "besamysozi@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 7
+    },
+    {
+      "name": "Natalie Brock",
+      "email": "hezijov@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 8
+    },
+    {
+      "name": "Kirby Joyner",
+      "email": "nejuzoj@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 9
+    },
+    {
+      "name": "zaid",
+      "email": "tasydono@mailinator.com",
+      "password": ";k;dsaddsa",
+      "id": 10
+    },
+    {
+      "name": "McKenzie Dyer",
+      "email": "gavo@mailinator.com",
+      "password": "fsdfdsfdsfs",
+      "id": 11
+    },
+    {
+      "name": "zaid",
+      "email": "mahmoodzaid603@gmail.com",
+      "password": "rest1234",
+      "id": 12
+    },
+    {
+      "name": "Julie Wilkinson",
+      "email": "pukyjewova@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 13
+    },
+    {
+      "name": "Chantale Riddle",
+      "email": "fyxisesiby@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 14
+    },
+    {
+      "name": "Teagan Dennis",
+      "email": "tofuxan@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 15
+    },
+    {
+      "name": "zaidd",
+      "email": "gavo@mailinat4or.com",
+      "password": "fatarrowfunc",
+      "id": 16
+    }
+  ],
+  "watches": [
+    {
+      "id": 1,
+      "imgUrl": "https://cdn.anscommerce.com/catalog/brandstore/johnson/17_7_20/Sale.jpg",
+      "quantity": 1,
+      "price": 100,
+      "currency": "$",
+      "firstColor": "Red",
+      "secondColor": "Blue",
+      "thirdColor": "Golden"
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://static-01.daraz.pk/p/a7338ba4a46f751d8b8b1a5a8f5909d9.jpg",
+      "quantity": 1,
+      "price": 100,
+      "currency": "$",
+      "firstColor": "Red",
+      "secondColor": "Blue",
+      "thirdColor": "Golden"
+    },
+    {
+      "id": 3,
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfsjsVrYb_Q9G8ZNoSsuywThNKrK-06Hgi6Q&usqp=CAU",
+      "quantity": 1,
+      "price": 100,
+      "currency": "$",
+      "firstColor": "Red",
+      "secondColor": "Blue",
+      "thirdColor": "Golden"
+    },
+    {
+      "id": 4,
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVWnuwO7AIse5dN3FGDyUKGucGBVPJlfwthQ&usqp=CAU",
+      "quantity": 1,
+      "price": 100,
+      "currency": "$",
+      "firstColor": "Red",
+      "secondColor": "Blue",
+      "thirdColor": "Golden"
+    },
+    {
+      "id": 5,
+      "imgUrl": "https://saamaan.pk/cdn/shop/products/Comet-Infinity-Smartwatch.jpg?v=1671009969",
+      "quantity": 1,
+      "price": 100,
+      "currency": "$",
+      "firstColor": "Red",
+      "secondColor": "Blue",
+      "thirdColor": "Golden"
+    },
+    {
+      "id": 6,
+      "imgUrl": "https://ae01.alicdn.com/kf/S8155730dbbf04c3095564a74ff3acdbf5.jpg_640x640Q90.jpg_.webp",
+      "quantity": 1,
+      "price": 100,
+      "currency": "$",
+      "firstColor": "Red",
+      "secondColor": "Blue",
+      "thirdColor": "Golden"
+    }
+  ],
+  "Earphones": [
+    {
+      "id": 7,
+      "imgUrl": "https://telectronics.pk/wp-content/uploads/nc/products/5c685d867ca6d008a6764ff330d94b8d.jpg",
+      "quantity": 1,
+      "price": 50,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    },
+    {
+      "id": 8,
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXJis-5HC3UkjCZeyQmcwm2L_UN5zfsGMEvK9XJsIpeGFo-ulHCec-Eubc6O4S61Dp3Uk&usqp=CAU",
+      "quantity": 1,
+      "price": 50,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    },
+    {
+      "id": 9,
+      "imgUrl": "https://images.meesho.com/images/products/211105378/w8p1j_512.jpg",
+      "quantity": 1,
+      "price": 50,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    },
+    {
+      "id": 10,
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6NfuXwltqO_62DensvWQ_i0Mqr1m9cgtjfDe97Z_J29F0bTvfUo6kilkTQr3V0nCUVVs&usqp=CAU",
+      "quantity": 1,
+      "price": 50,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    },
+    {
+      "id": 11,
+      "imgUrl": "https://m.media-amazon.com/images/I/512ipJzaVEL._AC_UF894,1000_QL80_.jpg",
+      "quantity": 1,
+      "price": 50,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    },
+    {
+      "id": 12,
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_xdplBSfNYixIZaNWDOyiHLazEg-tZNsGkA&usqp=CAU",
+      "quantity": 1,
+      "price": 50,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    },
+    {
+      "id": 13,
+      "imgUrl": "https://easycart.in/wp-content/uploads/2019/08/2-843.png",
+      "quantity": 1,
+      "price": 50,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    },
+    {
+      "id": 14,
+      "imgUrl": "https://m.media-amazon.com/images/I/61gFFtApeSL._AC_UF1000,1000_QL80_.jpg",
+      "quantity": 1,
+      "price": 50,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    },
+    {
+      "id": 15,
+      "imgUrl": "https://i.ebayimg.com/images/g/3~0AAOSw66ljxud9/s-l500.jpg",
+      "quantity": 1,
+      "price": 50,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    },
+    {
+      "id": 16,
+      "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/41PkKZvCsVL.jpg",
+      "quantity": 1,
+      "price": 50,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    }
+  ],
+  "Mobiles": [
+    {
+      "id": 17,
+      "imgUrl": "https://d1iv6qgcmtzm6l.cloudfront.net/products/lg_SIBzLZxI3CsMCiYcuaVThLzfhD6UPoSuA5WhHO4i.jpg",
+      "quantity": 1,
+      "price": 200,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    },
+    {
+      "id": 18,
+      "imgUrl": "https://mobilemall.pk/public_html/images/product/product_1689319405Infinix-Smart-7-HD.jpg",
+      "quantity": 1,
+      "price": 50,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    },
+    {
+      "id": 19,
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk7Ex891qRr4_0o9G-BP23AJcPL5ELiaFLoQ&usqp=CAU",
+      "quantity": 1,
+      "price": 50,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    },
+    {
+      "id": 20,
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2PBtjtuqni3c5Ro_Vrlg3orfpqI6oR4uzZQ&usqp=CAU",
+      "quantity": 1,
+      "price": 50,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    },
+    {
+      "id": 21,
+      "imgUrl": "https://cdn.bolnews.com/wp-content/uploads/2022/02/DSC9994.jpg",
+      "quantity": 1,
+      "price": 50,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    },
+    {
+      "id": 22,
+      "imgUrl": "https://propakistani.pk/price/wp-content/uploads/2020/07/zte-nubia-red-magic-5s-200x300.png",
+      "quantity": 1,
+      "price": 50,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    },
+    {
+      "id": 23,
+      "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/41V53BBa2-L._SL500_._AC_SL500_.jpg",
+      "quantity": 1,
+      "price": 50,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    },
+    {
+      "id": 24,
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcM00KAydI7PbqHxUvgMPSUNHE1km7EbjaA&usqp=CAU",
+      "quantity": 1,
+      "price": 50,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    },
+    {
+      "id": 25,
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFBHlEXvbPVrMoLStWmr_v6YxNEoRR9uIUrw&usqp=CAU",
+      "quantity": 1,
+      "price": 50,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    },
+    {
+      "id": 26,
+      "imgUrl": "https://www.lotmobiles.com/media/catalog/product/cache/b98c7301c0c14cfc5b52eb6fcd81ec35/v/i/vivo_v29e_5g_artistic_red_.jpg",
+      "quantity": 1,
+      "price": 50,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    }
+  ],
+  "Laptops": [
+    {
+      "id": 27,
+      "imgUrl": "https://cdn.thewirecutter.com/wp-content/media/2023/06/businesslaptops-2048px-0943.jpg",
+      "quantity": 1,
+      "price": 1000,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    },
+    {
+      "id": 28,
+      "imgUrl": "https://pyxis.nymag.com/v1/imgs/956/5db/38bc1d91ee2321c6868bd5300d3b7959a2-best-college-laptops.2x.rsquare.w536.jpg",
+      "quantity": 1,
+      "price": 1000,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    },
+    {
+      "id": 29,
+      "imgUrl": "https://www.pcworld.com/wp-content/uploads/2023/08/best-budget-laptops-8.jpg?quantity=50&strip=all",
+      "price": 1000,
+      "quantity": 1,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    },
+    {
+      "id": 30,
+      "imgUrl": "https://www.popsci.com/uploads/2022/06/22/best-gaming-laptops-under-500.jpg?auto=webp",
+      "price": 1000,
+      "quantity": 1,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    },
+    {
+      "id": 31,
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB36TUPku2CysyASTQZp4H81uNtsXHTsy_1O0Hd3v9R7AXMqV4DI1uCFtrOdcbpRBWRYQ&usqp=CAU",
+      "quantity": 1,
+      "price": 1000,
+      "currency": "$",
+      "firstColor": "Black",
+      "secondColor": "White",
+      "thirdColor": "Blue"
+    }
+  ]
+}

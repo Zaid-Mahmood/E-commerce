@@ -1,0 +1,33 @@
+.sideMenuBtn,
+.watchContainer {
+    height: 100%;
+}
+
+.watchContainer {
+    background: beige;
+}
+
+.watchImages {
+    height: 200px;
+    object-fit: cover;
+}
+
+.cartBtn {
+    background-color: #eedeb2 !important;
+    border: #DBD1B6 !important;
+    color: #BAA26B !important;
+}
+.cartBtn:hover{
+        color: rgb(104, 187, 104) !important;
+        background-color: #e3c98d!important;
+        transition: 0.5s all ease;
+        transform: scale(1.1);
+        text-decoration:underline;
+}
+.modal-backdrop {
+    --bs-backdrop-bg: rgb(0 0 0 / 30%) !important;
+}
+
+.modal-dialog {
+    margin-right: 0px !important;
+}

@@ -1,0 +1,48 @@
+.formHeading {
+    background-color:#eedeb2;
+    color: #BAA26B ;
+    text-align: center;
+}
+
+.mainWrapper {
+    color: rgb(255, 236, 236)
+}
+
+.container {
+    padding: 0% !important;
+    background-color: beige;
+
+}
+
+.main {
+    background-color: #D8D0B5;
+    height: 100vh;
+    display: grid;
+}
+
+.loginBtn{
+    background-color: #eedeb2 !important;
+    border: #DBD1B6 !important;
+    color: #BAA26B !important;   
+}
+.registerBtn:hover{
+    color: rgb(104, 187, 104) !important;
+    background-color: #e3c98d!important;
+    transition: 0.5s all ease;
+    transform: scale(1.1);
+    text-decoration:underline;
+}
+
+.loginBtn:hover{
+    color: rgb(104, 187, 104) !important;
+    background-color: #e3c98d!important;
+    transition: 0.5s all ease;
+    transform: scale(1.1);
+    text-decoration:underline;
+}
+
+.registerBtn{
+    background-color: rgb(228, 225, 186)!important;
+    color: #BAA26B !important;   
+
+}

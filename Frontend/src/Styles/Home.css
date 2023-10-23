@@ -1,0 +1,70 @@
+.shopImg {
+    height: 100vh;
+    width: 100% !important;
+    object-fit: cover;
+}
+
+.logout {
+    top: 1%;
+    right: 1%;
+}
+
+.textValue {
+    color: black;
+    bottom: 8px;
+    left: 20px;
+    text-align: center;
+    width: 30%;
+    height: 30%;
+    font-size: 10px;
+}
+
+.cartBtns {
+    color: #af954c;
+    left: -2% !important;
+    border-radius: 50% !important
+}
+
+.logoutBtn {
+    background-color: #eedeb2 !important;
+    color: #BAA26B !important;
+    text-decoration: none;
+    border-radius: 5px !important;
+}
+.logoutBtn:hover {
+    color: rgb(104, 187, 104) !important;
+    background-color: #e3c98d !important;
+    transition: 0.5s all ease;
+    transform: scale(1.1);
+    border: none !important;
+    text-decoration:underline;
+}
+
+.cartColor {
+    color: #af954c;
+}
+
+.sideMenuColor {
+    background-color: #DBD1B6 !important;
+    width: 20% !important;
+}
+
+.sideMenuBtn {
+    background-color: #DBD1B6;
+    border: 2px solid #DBD1B6;
+    border-radius: 4px;
+    color: #b8a254;
+}
+
+li {
+    border: 1px solid white;
+    padding: 15px;
+    cursor: pointer;
+}
+
+.productTypes li:hover{
+        color: rgb(104, 187, 104) !important;
+        background-color: #f1eee5 !important;
+        transform : scaleX(1.1);
+        transition: all 0.8s ease;
+}

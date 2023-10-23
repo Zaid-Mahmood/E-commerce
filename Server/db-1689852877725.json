@@ -1,0 +1,211 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "first@gmail.com",
+      "name": "first user",
+      "password": "11223344"
+    },
+    {
+      "email": "fahad@gmail.com",
+      "name": "fahad shakeel",
+      "password": "11223344",
+      "id": 2
+    },
+    {
+      "email": "usamafaheemahemd80@gmail.com",
+      "name": "usama",
+      "password": "usama",
+      "id": 3
+    },
+    {
+      "email": "anjum@gmail.com",
+      "name": "jamal ",
+      "password": "1122",
+      "id": 4
+    },
+    {
+      "email": "asdf@gmail.com",
+      "name": "usama ",
+      "password": "p",
+      "id": 5
+    },
+    {
+      "email": "usamafaheemahmed80@gmail.com",
+      "name": "usama faheem",
+      "password": "uk322",
+      "task1": "todo List",
+      "id": 6
+    },
+    {
+      "email": "usamafaheem@gmail.com",
+      "name": "asdwa",
+      "password": "aaa",
+      "task1": "todo List",
+      "id": 7
+    },
+    {
+      "email": "usamafahea2em@gmail.com",
+      "name": "asdwa",
+      "password": "aaa",
+      "task1": "todo List",
+      "id": 8
+    },
+    {
+      "email": "komail@gamil.comm",
+      "name": "komail",
+      "password": "1122",
+      "task1": "todo List",
+      "id": 9
+    },
+    {
+      "email": "komail@gmail.com",
+      "name": "asd",
+      "password": "komail",
+      "task1": "todo List",
+      "id": 10
+    },
+    {
+      "email": "komail@gmail.com",
+      "name": "asd",
+      "password": "komail",
+      "task1": "todo List",
+      "id": 11
+    },
+    {
+      "email": "komail@gmail.com",
+      "name": "asd",
+      "password": "komail",
+      "task1": "todo List",
+      "id": 12
+    },
+    {
+      "email": "Zaid123@gmail.com",
+      "name": "Zaid",
+      "password": "Zaid",
+      "task1": "todo List",
+      "id": 13
+    }
+  ],
+  "Task": [
+    {
+      "id": 0,
+      "loggedInEmail": "example@gmail.com",
+      "AllTask": []
+    },
+    {
+      "loggedInEmail": "usamafaheemahemd80@gmail.com",
+      "AllTask": [
+        {
+          "id": 0,
+          "task": "dewana ",
+          "Status": "progress",
+          "date": "Mon, Jun-05-2023 15:10:34",
+          "priority": "high"
+        },
+        {
+          "id": 1,
+          "task": "dilbar ",
+          "Status": "progress",
+          "date": "Mon, Jun-05-2023 15:10:38",
+          "priority": "urgent"
+        },
+        {
+          "id": 2,
+          "task": "dil dil pakistan ",
+          "Status": "progress",
+          "date": "Mon, Jun-05-2023 15:10:48",
+          "priority": "low"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "loggedInEmail": "usamafaheemahmed80@gmail.com",
+      "AllTask": [
+        {
+          "id": 0,
+          "task": "completed todo list ",
+          "Status": "progress",
+          "date": "Mon, Apr-24-2023 16:11:49",
+          "priority": "urgent"
+        },
+        {
+          "id": 1,
+          "task": "new task",
+          "Status": "complete",
+          "date": "Mon, Apr-24-2023 16:11:51",
+          "priority": "urgent"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "loggedInEmail": null,
+      "AllTask": [
+        {
+          "id": 0,
+          "task": "react tast"
+        },
+        {
+          "id": 1,
+          "task": "react bootstrap "
+        },
+        {
+          "id": 2,
+          "task": "material UI/UX"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "loggedInEmail": "komail@gmail.com",
+      "AllTask": [
+        {
+          "id": 0,
+          "task": "asdfasfa",
+          "Status": "complete",
+          "date": "Mon, May-08-2023 12:50:33",
+          "priority": "low"
+        },
+        {
+          "id": 1,
+          "task": "sadasda",
+          "Status": "progress",
+          "date": "Mon, May-08-2023 12:50:44",
+          "priority": "low"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "loggedInEmail": "Zaid123@gmail.com",
+      "AllTask": [
+        {
+          "id": 0,
+          "task": "React lerning",
+          "Status": "complete",
+          "date": "Mon, Jul-10-2023 12:44:51",
+          "priority": "low"
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "Redux": [
+    {
+      "id": "1",
+      "Name": "Usama",
+      "FatherName": "Faheem ud din",
+      "date": "2023-07-11",
+      "gender": "male"
+    },
+    {
+      "id": "2",
+      "Name": "Komail",
+      "FatherName": "Abbas",
+      "date": "2023-07-18",
+      "gender": "male"
+    }
+  ]
+}
